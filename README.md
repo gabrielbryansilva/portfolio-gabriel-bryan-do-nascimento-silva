@@ -6,14 +6,13 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bryan/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.nacimento32@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/Curriculo_Gabriel_Bryan_Dados.pdf)
  
 ---
  
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados e Gestão de Tecnologia.
  
-* **Habilidades Técnicas:** Python, SQL, HTML/CSS, C++.
+* **Habilidades Técnicas:** Python, SQL, JavaScript, HTML/CSS, Git e automação de processos com n8n.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico, Adaptabilidade.
 * **Experiência/Projetos Relevantes:** Atuei em Auditoria de Usabilidade e UX/UI, Desenvolvimento em Python e Cálculo Numérico, Modelagem de Processos de Negócio (BPMN), Análise de Dados do Mercado Financeiro em Python, Gestão de Conteúdo e Branding Digital, Arquitetura de Banco de Dados SQL (Gestão de Academia), Desenvolvimento Front-End (Projeto Meraki - IoT Fitness), Detecção de Viés Algorítmico e Ética em IA, Automação e Otimização de Rotinas com IA, Análise Preditiva e Sinais de Mercado(com scripts em python), Aplicações Práticas de IA Generativa.
  
@@ -23,8 +22,6 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -36,7 +33,6 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 
  
 #### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
